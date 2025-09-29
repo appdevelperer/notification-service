@@ -1,0 +1,12 @@
+/home/igor/dev/yp_2.1/notification-service/notification-service/bin/Release/net8.0/publish/notification-service
+/home/igor/dev/yp_2.1/notification-service/notification-service/bin/Release/net8.0/publish/appsettings.Development.json
+/home/igor/dev/yp_2.1/notification-service/notification-service/bin/Release/net8.0/publish/appsettings.json
+/home/igor/dev/yp_2.1/notification-service/notification-service/bin/Release/net8.0/publish/notification-service.dll
+/home/igor/dev/yp_2.1/notification-service/notification-service/bin/Release/net8.0/publish/notification-service.deps.json
+/home/igor/dev/yp_2.1/notification-service/notification-service/bin/Release/net8.0/publish/notification-service.runtimeconfig.json
+/home/igor/dev/yp_2.1/notification-service/notification-service/bin/Release/net8.0/publish/notification-service.pdb
+/home/igor/dev/yp_2.1/notification-service/notification-service/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/igor/dev/yp_2.1/notification-service/notification-service/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/home/igor/dev/yp_2.1/notification-service/notification-service/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/igor/dev/yp_2.1/notification-service/notification-service/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/igor/dev/yp_2.1/notification-service/notification-service/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
